@@ -1,4 +1,4 @@
-I'd like to share my custom-built vocabulary trainer shiny app!
+# I'd like to share the code of my custom-built vocabulary trainer shiny app!
 
 What I did is upload a list of words in Turkish and German to Googlesheets and use this list as database. The shinyapp randomly pulls words from the list and remembers if I knew them or not (based on my input). This information is also stored in the Googlesheets. Depending how often you remembered a given words, this words will be stored in certain 'boxes'. Each word starts out in box 5 and moves down until box 1. Usually I only practice boxes 4 and 5 and only rarely check out the other ones.
 
